@@ -1,0 +1,163 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 800px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fffded;
+	border: 3px solid #931420;
+}
+
+section{
+	width: 525px;
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	clear: left;
+	margin: 5px;
+}
+
+aside{
+	width: 215px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	
+}
+	
+	
+header{
+	border-bottom: 3px solid #931420;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-image: -webkit-linear-gradient(30deg, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+	}
+	
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+
+
+
+
+header h2 { 
+	font-size: 170%;
+	color: #800000;
+	padding-left: 30px;
+}
+
+
+header h3 {
+	font-size: 130%;
+	font-style: italic;
+	padding-left: 30px;
+	
+}
+
+h1{
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
+}
+
+
+section h2{
+	font-size: 130%;
+	color: #800000;
+}
+
+aside h3{ 
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+
+aside img{
+	padding-bottom: 1em;
+
+}	
+	
+section h3{ 
+	font-size: 105%;
+}
+	
+article{
+	padding-top: .5em;
+	padding-bottom: .5em;
+	border: 2px solid #800000;
+}
+
+article h2{
+	padding-top: 0;
+
+}
+
+article h3{
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+
+
+#nav_menu ul{
+	position: relative;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav_menu ul li{
+	float: left;
+	display: inline;
+
+}
+
+
+#nav_menu ul li a {
+	display: block;
+	text-decoration: none;
+	width: 20%;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+article img{
+	float: right;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 1em;
+	border: 1px solid black;
+	
+}
+	
+.shadow  {
+	text-shadow: -2px -2px 2px red;
+}
+
+
+a:hover, a:focus {
+	font-style: italic;
+}
+
+footer{
+	text-align: center;
+	background-color: #931420;
+	font-color: solid white;
+	clear: both;
+}
+
+
+/* the styles for the section */
+
+
+
+/* the styles for the footer */
+
